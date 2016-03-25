@@ -10,6 +10,6 @@
 		"url": "https://github.com/mitsuru/tough-cookie-filestore.git"
 	},
   "dependencies": {
-    "tough-cookie": "~0.12.1"
+    "tough-cookie": "^2.2.2"
   }
 }
