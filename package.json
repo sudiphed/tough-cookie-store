@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cath-gh/tough-cookie-store.git"
+    "url": "git+https://github.com/cath-gh/tough-cookie-store.git"
   },
   "keywords": [
     "cookie",
@@ -23,5 +23,6 @@
   "homepage": "https://github.com/cath-gh/tough-cookie-store",
   "dependencies": {
     "tough-cookie": "^2.2.2"
-  }
+  },
+  "devDependencies": {}
 }

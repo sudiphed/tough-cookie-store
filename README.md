@@ -6,7 +6,7 @@ tough-cookie-filestore is a File store for tough-cookie module. See
 
 ## installation
 
-    $ npm install tough-cookie-filestore
+    $ npm install tough-cookie-store
 
 ## Options
 
@@ -14,7 +14,7 @@ tough-cookie-filestore is a File store for tough-cookie module. See
 
 ## Usage
 
-  var FileCookieStore = require("tough-cookie-filestore");
+  var FileCookieStore = require("tough-cookie-store");
   var CookieJar = require("tough-cookie").CookieJar;
 
   var jar = new CookieJar(new FileCookieStore("./cookie.json"));
