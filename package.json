@@ -1,14 +1,26 @@
 {
-  "name": "tough-cookie-filestore",
-  "version": "0.0.2",
-  "description": "file store for tough-cookie",
+  "name": "tough-cookie-store",
+  "version": "0.0.3",
+  "description": "file store for tough-cookie, edit on mitsuru/tough-cookie-filestore",
   "main": "index.js",
-  "author": "mitsuru",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cath-gh/tough-cookie-store.git"
+  },
+  "keywords": [
+    "cookie",
+    "tough-cookie",
+    "tough-cookie-filestore"
+  ],
+  "author": "cath",
   "license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/mitsuru/tough-cookie-filestore.git"
-	},
+  "bugs": {
+    "url": "https://github.com/cath-gh/tough-cookie-store/issues"
+  },
+  "homepage": "https://github.com/cath-gh/tough-cookie-store",
   "dependencies": {
     "tough-cookie": "^2.2.2"
   }
