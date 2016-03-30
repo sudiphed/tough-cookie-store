@@ -1,6 +1,6 @@
 {
   "name": "tough-cookie-store",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "file store for tough-cookie, edit on mitsuru/tough-cookie-filestore",
   "main": "index.js",
   "scripts": {
