@@ -1,6 +1,7 @@
 # File Cookie Store
 
 [![NPM](https://nodei.co/npm/tough-cookie-store.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/tough-cookie-store/)
+[![build status](https://travis-ci.org/cath-gh/tough-cookie-store.svg?branch=master)](https://travis-ci.org/cath-gh/tough-cookie-store)
 
 tough-cookie-filestore is a File store modified from [tough-cookie-filestore](https://github.com/mitsuru/tough-cookie-filestore),  fully compatible with it. And add some functions needed in use.
 
