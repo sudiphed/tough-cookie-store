@@ -3,9 +3,6 @@
   "version": "0.0.6",
   "description": "file store for tough-cookie, edit on mitsuru/tough-cookie-filestore",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cath-gh/tough-cookie-store.git"
